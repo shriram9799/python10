@@ -7,3 +7,7 @@ print("addition =",c)
 
 c= a-b
 print(c)
+
+#code for multiplication
+c=a*b
+print(c)
